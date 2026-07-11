@@ -68,4 +68,4 @@ O escopo do sistema continuará a ser expandido nas próximas sprints, visando t
 * **Integração Fiscal (NFS-e):** Comunicação direta com webservices de prefeituras para automatizar a emissão de Notas Fiscais de Serviço eletrônica no momento do encerramento de uma OS.
 * **Automação de Estoque e Compras:** Controle dinâmico de inventário com baixa automática de insumos e peças utilizadas nos reparos, diretamente atrelado ao provisionamento financeiro.
 * **Gestão e Monitoramento de Garantias:** Rastreamento estruturado do ciclo de vida dos equipamentos entregues, controlando os prazos de garantia vigentes e extraindo métricas de reentrada por falha de serviço.
-* **Arquivo Histórico Imutável:** Retenção a longo prazo de Ordens de Serviço finalizadas, assegurando a integridade dos laudos e das evidências fotográficas para respaldo jurídico em eventuais auditorias.
+* **Arquivo Histórico Imutável:** Retenção a longo prazo de Ordens de Serviço finalizadas, assegurando a integridade dos laudos e das evidências fotográficas para respaldo jurídico em eventuais auditorias .
